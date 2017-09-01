@@ -1,4 +1,4 @@
-Docker: PHP, extensions and Apache
+Docker: PHP-FPM, extensions
 ==================================
 
 Official [PHP docker image](https://hub.docker.com/_/php/) with additional extensions.
